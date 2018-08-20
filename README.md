@@ -1,5 +1,5 @@
 # PHP NSFW Classifier
-A **single PHP Class** to classify **NSFW image content** via the PixLab Machine Vision APIs - https://pixlab.io/cmd?id=nsfw
+A **single PHP Class** to classify **NSFW contents** (i.e. Users image uploads) via the PixLab Machine Vision APIs - https://pixlab.io/cmd?id=nsfw
 ## Requirements
 PixLab PHP NSFW Classify Class works with PHP 5.3, 5.4, 5.5, 5.6, 7.0, 7.1, 7.2, and HHVM.
 ## Install
