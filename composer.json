@@ -2,7 +2,7 @@
     "name": "symisc/pixlab-php-nsfw",
     "type": "library",
     "homepage": "https://github.com/symisc/pixlab-php-nsfw",
-    "license": "BSD",
+    "license": "BSD-2-Clause",
     "description": "PHP Class to classify NSFW content via the PixLab Machine Vision APIs",
     "authors": [
         {
