@@ -5,7 +5,7 @@ PixLab PHP NSFW Classify Class works with PHP 5.3, 5.4, 5.5, 5.6, 7.0, 7.1, 7.2,
 ## Install
 To install PHP NSFW Class, simply:
 ```shell
-$ composer require symisc/symisc/pixlab-php-nsfw
+$ composer require symisc/pixlab-php-nsfw
 ```
 Or simply drop ***pixlab.php*** on your source tree and you're done!
 ## Usage Example
